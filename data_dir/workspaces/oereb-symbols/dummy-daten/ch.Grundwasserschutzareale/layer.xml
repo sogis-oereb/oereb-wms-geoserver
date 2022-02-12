@@ -1,0 +1,17 @@
+<layer>
+  <name>ch.Grundwasserschutzareale</name>
+  <id>LayerInfoImpl--3dacc9a4:17eef092fe9:-7fec</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3dacc9a4:17eef092fe9:-7feb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3dacc9a4:17eef092fe9:-7fed</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-02-12 18:25:14.223 UTC</dateCreated>
+  <dateModified>2022-02-12 18:27:18.267 UTC</dateModified>
+</layer>

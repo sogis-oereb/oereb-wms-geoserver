@@ -1,0 +1,17 @@
+<layer>
+  <name>ch.Grundwasserschutzzonen</name>
+  <id>LayerInfoImpl--3dacc9a4:17eef092fe9:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3dacc9a4:17eef092fe9:-7ff8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3dacc9a4:17eef092fe9:-7ffa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-02-12 18:06:15.295 UTC</dateCreated>
+  <dateModified>2022-02-12 18:32:31.14 UTC</dateModified>
+</layer>

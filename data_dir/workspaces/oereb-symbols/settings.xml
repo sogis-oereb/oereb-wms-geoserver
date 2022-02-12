@@ -1,0 +1,46 @@
+<settings>
+  <id>SettingsInfoImpl--3dacc9a4:17eef092fe9:-7fd0</id>
+  <workspace>
+    <id>WorkspaceInfoImpl--3dacc9a4:17eef092fe9:-7fff</id>
+    <name>oereb</name>
+    <isolated>false</isolated>
+    <dateCreated>2022-02-12 17:47:18.569 UTC</dateCreated>
+    <dateModified>2022-02-12 18:40:45.301 UTC</dateModified>
+  </workspace>
+  <contact>
+    <id>contact</id>
+    <addressCountry>Switzerland</addressCountry>
+    <contactEmail>sogis@bd.so.ch</contactEmail>
+    <contactOrganization>Amt für Geoinformation</contactOrganization>
+    <contactPerson>AGI</contactPerson>
+    <internationalAddress class="org.geotools.util.GrowableInternationalString"/>
+    <internationalAddressCity class="org.geotools.util.GrowableInternationalString"/>
+    <internationalAddressCountry class="org.geotools.util.GrowableInternationalString"/>
+    <internationalAddressDeliveryPoint class="org.geotools.util.GrowableInternationalString"/>
+    <internationalAddressPostalCode class="org.geotools.util.GrowableInternationalString"/>
+    <internationalAddressState class="org.geotools.util.GrowableInternationalString"/>
+    <internationalAddressType class="org.geotools.util.GrowableInternationalString"/>
+    <internationalContactEmail class="org.geotools.util.GrowableInternationalString"/>
+    <internationalContactFacsimile class="org.geotools.util.GrowableInternationalString"/>
+    <internationalContactOrganization class="org.geotools.util.GrowableInternationalString"/>
+    <internationalContactPerson class="org.geotools.util.GrowableInternationalString"/>
+    <internationalContactPosition class="org.geotools.util.GrowableInternationalString"/>
+    <internationalContactVoice class="org.geotools.util.GrowableInternationalString"/>
+  </contact>
+  <charset>UTF-8</charset>
+  <numDecimals>8</numDecimals>
+  <onlineResource>http://geoserver.org</onlineResource>
+  <verbose>false</verbose>
+  <verboseExceptions>false</verboseExceptions>
+  <metadata>
+    <map>
+      <entry>
+        <string>quietOnNotFound</string>
+        <boolean>false</boolean>
+      </entry>
+    </map>
+  </metadata>
+  <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+  <showCreatedTimeColumnsInAdminList>false</showCreatedTimeColumnsInAdminList>
+  <showModifiedTimeColumnsInAdminList>false</showModifiedTimeColumnsInAdminList>
+</settings>

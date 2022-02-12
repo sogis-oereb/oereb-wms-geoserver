@@ -1,0 +1,67 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--3dacc9a4:17eef092fe9:-7ffa</id>
+  <name>ch.Grundwasserschutzzonen</name>
+  <nativeName>vw_oerebwms_grundwasserschutzzonen_flaeche</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--3dacc9a4:17eef092fe9:-7ffe</id>
+  </namespace>
+  <title>Grundwasserschutzzonen</title>
+  <abstract>Grundwasserschutzzonen</abstract>
+  <nativeCRS class="projected">PROJCS[&quot;CH1903+ / LV95&quot;, 
+  GEOGCS[&quot;CH1903+&quot;, 
+    DATUM[&quot;CH1903+&quot;, 
+      SPHEROID[&quot;Bessel 1841&quot;, 6377397.155, 299.1528128, AUTHORITY[&quot;EPSG&quot;,&quot;7004&quot;]], 
+      TOWGS84[674.374, 15.056, 405.346, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6150&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4150&quot;]], 
+  PROJECTION[&quot;Oblique_Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9815&quot;]], 
+  PARAMETER[&quot;longitude_of_center&quot;, 7.439583333333333], 
+  PARAMETER[&quot;latitude_of_center&quot;, 46.952405555555565], 
+  PARAMETER[&quot;azimuth&quot;, 90.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;false_easting&quot;, 2600000.0], 
+  PARAMETER[&quot;false_northing&quot;, 1200000.0], 
+  PARAMETER[&quot;rectified_grid_angle&quot;, 90.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;2056&quot;]]</nativeCRS>
+  <srs>EPSG:2056</srs>
+  <nativeBoundingBox>
+    <minx>2607675.368507229</minx>
+    <maxx>2607790.838561069</maxx>
+    <miny>1228510.962506806</miny>
+    <maxy>1229210.962506809</maxy>
+    <crs class="projected">EPSG:2056</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>7.539935732677513</minx>
+    <maxx>7.541471845820438</maxx>
+    <miny>47.20749210579601</miny>
+    <maxy>47.21378970976643</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--3dacc9a4:17eef092fe9:-7ffc</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

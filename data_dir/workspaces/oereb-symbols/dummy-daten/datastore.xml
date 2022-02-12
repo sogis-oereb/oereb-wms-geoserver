@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl--3dacc9a4:17eef092fe9:-7ffc</id>
+  <name>dummy-daten</name>
+  <description>dummy-daten</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--3dacc9a4:17eef092fe9:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">file:data/dummy-daten.gpkg</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="read_only">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">https://oereb-symbols.geo.so.ch</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2022-02-12 18:05:26.825 UTC</dateCreated>
+  <dateModified>2022-02-12 18:45:05.107 UTC</dateModified>
+</dataStore>
